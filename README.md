@@ -1,8 +1,6 @@
-<h1 align="center">Olá, eu sou Julian Cassimiro</h1>
+<h1 align="center">Olá, eu sou King Julian I</h1>
 
-- 🌱 I’m currently learning **VueJS, Electron and NextJS**
-
-- 💬 Ask me about **React, JavaScript, Python, C#**
+- 💬 Ask me about **Java, React, JavaScript, Python**
 
 - 📫 How to reach me **julian.cassimiro@outlook.com**
 
